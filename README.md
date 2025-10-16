@@ -45,6 +45,16 @@ void loop()
 ```
 
 ---
+## Visualização Tinkercad
+
+![alt text](image.png)
+---
 
 ## Link para vídeo 
 link vídeo -> https://drive.google.com/drive/folders/1cAWTjd201kbJpLSflov7lV-CwhMsODYw?usp=sharing
+
+---
+
+## Link Tinkercad
+
+link Tinkercad -> https://www.tinkercad.com/things/5av2laiNE47/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=N823Vgs0gHriQT5imFvk3i93Qgk8FB5pppp4X3JyLM0
